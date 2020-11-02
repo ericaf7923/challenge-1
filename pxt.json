@@ -1,0 +1,23 @@
+{
+    "name": "challenge 1",
+    "description": "",
+    "dependencies": {
+        "adafruit-circuit-playground-express": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.13.62",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only"
+}
